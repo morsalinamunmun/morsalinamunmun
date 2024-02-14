@@ -8,7 +8,7 @@
 
 <br>
 
-- 🔭 I Am Junior MERN Developer
+- 🔭 I Am Junior Web Developer
 - 🌱 I’m currently learning advance Web Development and other programming languages
 
 - 📫 How to reach me **morsalinamunmun@gmail.com**
