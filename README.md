@@ -5,7 +5,7 @@
 - 🔭 I Am a Web Developer
 - 🌱 I’m currently learning advance Web Development and other programming languages
 - 📫 How to reach me **morsalinamunmun@gmail.com**
-- 📄 Check out my resume: <a href="https://drive.google.com/file/d/1_juPSzR1Y2JkJtZIj718ejdp23mG4BP8/view?usp=sharing" target="_blank" style="text-decoration:none; color:#007acc;"><strong>Click Here</strong></a>
+- 📄 Check out my resume: <a href="https://drive.google.com/file/d/1_juPSzR1Y2JkJtZIj718ejdp23mG4BP8/view?usp=sharing" target="_blank" style="text-decoration:none; color:#007acc;"><strong>Click Resume Here</strong></a>
 - ⚡ Fun fact :- I like to do something like food and some programming language.
 
 <br>
