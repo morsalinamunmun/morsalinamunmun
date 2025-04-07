@@ -2,12 +2,6 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=morsalinamunmun&label=Profile%20views&color=0e75b6&style=flat"
-    alt="morsalinamunmun" /> 
-  </p>
-
-<br>
-
 - 🔭 I Am a Web Developer
 - 🌱 I’m currently learning advance Web Development and other programming languages
 
@@ -107,4 +101,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[morsalina](https://github.com/morsalinamunmun)
+[morsalina](https://github.com/morsalinamunmun) 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=morsalinamunmun&label=Profile%20views&color=0e75b6&style=flat"
+    alt="morsalinamunmun" /> 
+  </p>
+
